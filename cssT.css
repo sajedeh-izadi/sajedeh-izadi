@@ -1,0 +1,1467 @@
+
+html, body{
+    height:100%;
+    margin: 0;
+  }
+
+
+.squareF h6{
+text-align: right;
+margin-top: 20px;
+margin-right: 40px;
+color: rgb(94,81,169);
+
+}
+
+.pa1{
+    text-align: right;
+margin-top: 10px;
+margin-right: 35px;
+color: rgb(94,81,169);
+font-size: 25px;
+
+}
+
+.pa2{
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    font-size: 10px;
+    
+    
+}
+.linkPa2{
+    color: rgb(94,81,169);
+}
+
+.rec7{
+    height: 250px;
+    background-color: rgb(94, 81, 169);
+}
+
+.logo2{
+    width: 70px;
+}
+
+.rec8{
+    height: 100px;
+    background-color: rgb(51, 51, 51);
+   
+}
+
+.pa14{
+    margin-left: 25px;
+}
+
+
+@media (min-width: 1200px) and (max-width: 2000px) {
+
+  
+    
+    .squareB{
+        
+        height: 770px;
+        width: 60%;
+        background-color: rgb(94,81,169);
+        display: flex;
+        margin-top: 10px;
+        margin-left: auto;
+          
+    }
+    
+    .pic1{
+        
+        width: auto; 
+        width: 650px;
+        height: 600px;
+        margin-top: 80px;
+        margin-left: -250px ;
+       
+        
+    }
+    
+    .squareF {
+        
+        width: auto;
+        width: 330px;
+        height: 360px;
+        margin-top: 200px;
+        background-color: white;
+        position: absolute;
+        margin-left: 250px;
+    
+    }
+
+    .squareF h6{
+        text-align: right;
+        margin-top: 45px;
+        margin-left: 35px;
+        color: rgb(94,81,169);
+        font-size: 20px;
+        
+    }
+
+    .pa1{
+        text-align: right;
+    margin-top: 10px;
+    margin-left: 35px;
+    color: rgb(94,81,169);
+    font-size: 60px;
+    line-height: 55px;
+    
+    }
+    
+    .pa2{
+        font-style: italic;
+        text-align: right;
+        margin-left: 20px;
+        font-size: 20px;
+        
+        
+    }
+    .linkPa2{
+        color: rgb(94,81,169);
+    }
+
+    .pa3{
+        margin-top: 40px;
+        font-size: 60px;
+        margin-left: 455px;
+        color: rgb(80, 64, 172);
+        display: flex;
+        justify-content: left;
+    }
+
+    .pa4{
+        margin-top: 40px;
+        font-size: 23px;
+        margin-left: 1110px;
+        width: 28%;
+        
+       
+    }
+
+    .squareB2{
+        height: 850px;
+        background-color: rgb(94,81,169);
+    }
+
+    .squareB2 h2{
+        font-size: 35px;
+        margin-left: 100px;
+        color: white;
+        margin-top: 300px;
+    }
+    
+    .line{
+      width: auto;
+    height: 12px;
+    width: 115px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 35px;
+    }
+    
+    .pa5{
+        font-size: 20px;
+        margin-left: 100px;
+        color: white;
+        margin-top: 30px;
+    }
+
+    .pic2{
+            
+        height: 400px;
+     object-fit: cover;
+    
+        
+    }
+
+    .pic3{
+            
+        height: 430px;
+     object-fit: cover;
+    
+        
+    }
+
+    .title1{
+        font-size: 30px;
+        color: rgb(94,81,169);
+       font-weight: bold;
+    }
+
+    .pa6{
+        font-weight: normal;
+        text-align: left;
+    }
+
+    .pic5{
+        height: 345px;
+        object-fit: cover;
+    }
+
+    .rec2{
+        height: 320px;
+        background-color: rgb(228,153,191);
+    }
+
+    .pa7{
+        font-size: 22px;
+    }
+
+    .pa8{
+        font-size: 26px;
+    }
+
+    .fa{
+        color: white;
+        text-decoration: none;
+       
+    }
+
+    .sMedia{
+        display: flex;
+       justify-content: left;
+        gap: 25px;
+        margin-left: 75px;
+        margin-top: 20px;
+        font-size: 30px;
+    }
+
+    .pic6{
+        object-fit: cover;
+        height: 660px;
+        margin-left: -25px;
+    }
+
+    .rec3{
+        
+        height: 360px;
+        background-color: black;  
+    }
+
+    .colmn3{
+        margin-left: -24px;
+    }
+
+    .pic7{
+        
+        height: 300px;
+        object-fit: cover;
+    }
+
+    .pa9{
+        font-size: 30px;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+
+    .about{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .candy{
+        font-size: 40px;
+        color: rgb(94, 81, 169);
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .pa10{
+        column-count: 2;
+    }
+
+    .button{
+        height: 40px;
+        font-size: 20px;
+        background-color: rgb(228,153,191);
+        
+    }
+
+    .rec5{
+        height: 600px;
+        background-color: rgb(228,153,191);
+    }
+
+    .fa2{
+        color: black;
+        text-decoration: none;
+       
+    }
+
+    .sMedia2{
+        display: flex;
+       justify-content: left;
+        gap: 25px;
+        margin-top: 20px;
+        font-size: 30px;
+      
+    }
+
+    .rec6{
+        height: 20px;
+        background-color: rgb(228,153,191);
+    }
+
+    .recM{
+        height: 650px;
+        background-color: white;
+       
+    }
+
+    .pic8{
+        object-fit: cover;
+        height: 400px;
+    }
+
+    .pa11{
+        font-size: 30px;
+    }
+
+    .linkPa11{
+        color: black;
+    }
+
+    .pic9{
+        height: 500px;
+        object-fit: cover;
+    }
+
+    .pic10{
+        height: 500px;
+        object-fit: cover;
+    }
+
+    .pic11{
+        height: 500px;
+        object-fit: cover;
+    }
+ 
+    
+
+}
+
+
+@media (min-width: 1130px) and (max-width: 1435px){
+
+    .pa3{
+        margin-top: 40px;
+        font-size: 50px;
+        margin-left: 55px;
+        color: rgb(80, 64, 172);
+        line-height: 50px;
+        display: flex;
+        justify-content: left;
+    }
+
+    .pa4{
+        margin-top: 40px;
+        font-size: 23px;
+        margin-left: 600px;
+        width: 58%;
+        
+       
+    }
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+  
+    
+    .squareB{
+        
+        height: 770px;
+        width: 70%;
+        background-color: rgb(94,81,169);
+        display: flex;
+        margin-top: 10px;
+        margin-left: auto;
+          
+    }
+    
+    .pic1{
+        
+        width: auto; 
+        width: 650px;
+        height: 600px;
+        margin-top: 80px;
+        margin-left: -250px ;
+       
+        
+    }
+    
+    .squareF {
+        
+        width: auto;
+        width: 330px;
+        height: 360px;
+        margin-top: 200px;
+        background-color: white;
+        position: absolute;
+        margin-left: 250px;
+    
+    }
+
+    .squareF h6{
+        text-align: right;
+        margin-top: 45px;
+        margin-left: 35px;
+        color: rgb(94,81,169);
+        font-size: 20px;
+        
+    }
+
+    .pa1{
+        text-align: right;
+    margin-top: 10px;
+    margin-left: 35px;
+    color: rgb(94,81,169);
+    font-size: 60px;
+    line-height: 55px;
+    
+    }
+    
+    .pa2{
+        font-style: italic;
+        text-align: right;
+        margin-left: 20px;
+        font-size: 20px;
+        
+        
+    }
+    .linkPa2{
+        color: rgb(94,81,169);
+    }
+
+    .pa3{
+        margin-top: 40px;
+        font-size: 50px;
+        margin-left: 15px;
+        color: rgb(80, 64, 172);
+        line-height: 50px;
+        display: flex;
+        justify-content: left;
+    }
+
+    .pa4{
+        margin-top: 10px;
+        font-size: 20px;
+        margin-left: 400px ;
+       
+    }
+ 
+    .squareB2{
+        height: 800px;
+        background-color: rgb(94,81,169);
+    }
+
+    .squareB2 h2{
+        font-size: 35px;
+        margin-left: 50px;
+        color: white;
+        margin-top: 150px;
+    }
+    
+    .line{
+      width: auto;
+    height: 12px;
+    width: 115px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 35px;
+    }
+    
+    .pa5{
+        font-size: 20px;
+        margin-left: 50px;
+        color: white;
+        margin-top: 30px;
+    }
+
+    .pic2{
+            
+        height: 300px;
+     object-fit: cover;
+    
+        
+    }
+
+    .pic3{
+            
+        height: 460px;
+     object-fit: cover;
+    
+        
+    }
+
+    .title1{
+        font-size: 30px;
+        color: rgb(94,81,169);
+       font-weight: bold;
+    }
+
+    .pa6{
+        font-weight: normal;
+        color: black;
+    }
+
+    .pic5{
+        height: 345px;
+        object-fit: cover;
+    }
+
+    .rec2{
+        height: 320px;
+        background-color: rgb(228,153,191);
+    }
+
+    .pa7{
+        font-size: 22px;
+    }
+
+    .pa8{
+        font-size: 26px;
+    }
+
+    .fa{
+        color: white;
+        text-decoration: none;
+       
+    }
+
+    .sMedia{
+        display: flex;
+       justify-content: left;
+        gap: 25px;
+        margin-left: 75px;
+        margin-top: 20px;
+        font-size: 30px;
+    }
+
+    .pic6{
+        object-fit: cover;
+        height: 660px;
+        margin-left: -25px;
+    }
+
+    .rec3{
+        
+        height: 400px;
+        background-color: black;  
+    }
+
+    .colmn3{
+        margin-left: -24px;
+    }
+
+    .pic7{
+        
+        height: 260px;
+        object-fit: cover;
+    }
+
+    .pa9{
+        font-size: 30px;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+
+    .about{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .candy{
+        font-size: 40px;
+        color: rgb(94, 81, 169);
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .pa10{
+        column-count: 2;
+    }
+
+    .button{
+        height: 40px;
+        font-size: 20px;
+        background-color: rgb(228,153,191);
+        
+    }
+
+    .rec5{
+        height: 600px;
+        background-color: rgb(228,153,191);
+    }
+
+    .fa2{
+        color: black;
+        text-decoration: none;
+       
+    }
+
+    .sMedia2{
+        display: flex;
+       justify-content: left;
+        gap: 25px;
+        margin-top: 20px;
+        font-size: 30px;
+      
+    }
+
+    .rec6{
+        height: 20px;
+        background-color: rgb(228,153,191);
+    }
+
+    .recM{
+        height: 650px;
+        background-color: white;
+       
+    }
+
+    .pic8{
+        object-fit: cover;
+        height: 300px;
+    }
+
+    .pa11{
+        font-size: 30px;
+    }
+
+    .linkPa11{
+        color: black;
+    }
+
+    .pic9{
+        height: 500px;
+        object-fit: cover;
+    }
+
+    .pic10{
+        height: 500px;
+        object-fit: cover;
+    }
+
+    .pic11{
+        height: 500px;
+        object-fit: cover;
+    }
+    
+  
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+  
+    .squareB{  
+        height: 700px;
+        width: 100%;
+        background-color: rgb(94,81,169);
+        display: flex;
+      justify-content: center;
+     align-items: center;
+        margin-top: 180px;
+          
+    }
+    
+    .pic1{
+        
+        width: auto; 
+        width: 600px;
+        height: 600px;
+        margin-top: -450px;
+        
+    }
+    
+    .squareF {
+        
+        width: auto;
+        width: 430px;
+        height: 330px;
+        margin-top: 200px;
+        background-color: white;
+        position: absolute;
+    
+    }
+
+    .squareF h6{
+        text-align: center;
+        margin-top: 45px;
+        margin-left: 35px;
+        color: rgb(94,81,169);
+        font-size: 20px;
+        
+    }
+
+    .pa1{
+        text-align: center;
+    margin-top: 10px;
+    margin-left: 35px;
+    color: rgb(94,81,169);
+    font-size: 55px;
+    line-height: 55px;
+    
+    }
+    
+    .pa2{
+        font-style: italic;
+        text-align: center;
+        margin-left: 20px;
+        font-size: 25px;
+        
+        
+    }
+    .linkPa2{
+        color: rgb(94,81,169);
+    }
+
+    .pa3{
+        margin-top: 40px;
+        font-size: 60px;
+        margin-left: 50px;
+        color: rgb(80, 64, 172);
+        display: flex;
+        justify-content: left;
+    }
+
+    .pa4{
+        margin-top: 40px;
+        font-size: 23px;
+        margin-left: 400px;
+         
+    }
+
+    .squareB2{
+        height: 600px;
+        background-color: rgb(94,81,169);
+    }
+
+    .squareB2 h2{
+        font-size: 35px;
+        margin-left: 50px;
+        color: white;
+        margin-top: 100px;
+    }
+    
+    .line{
+      width: auto;
+    height: 12px;
+    width: 115px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 35px;
+    }
+    
+    .pa5{
+        font-size: 20px;
+        margin-left: 50px;
+        color: white;
+        margin-top: 30px;
+    }
+
+    .pic2{
+            
+        height: 450px;
+     object-fit: cover;
+     margin: auto;
+        
+    }
+
+    .title1{
+        font-size: 30px;
+        color: rgb(94,81,169);
+       font-weight: bold;
+       
+    }
+
+    .pic3{
+      height: 600px;
+      object-fit: cover;
+      
+    }
+
+    .pic5{
+        height: 345px;
+        object-fit: cover;
+    }
+
+    .rec2{
+        height: 320px;
+        background-color: rgb(228,153,191);
+    }
+
+    .pa7{
+        font-size: 22px;
+    }
+
+    .pa8{
+        font-size: 26px;
+    }
+
+    .fa{
+        color: white;
+        text-decoration: none;
+       
+    }
+
+    .sMedia{
+        display: flex;
+       justify-content: left;
+        gap: 25px;
+        margin-left: 75px;
+        margin-top: 20px;
+        font-size: 30px;
+    }
+
+    .pic6{
+        object-fit: cover;
+        height: 665px;
+        margin-left: -25px;
+    }
+
+    .rec3{
+        height: 400px;
+        background-color: black;
+    }
+
+    .about{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .candy{
+        font-size: 40px;
+        color: rgb(94, 81, 169);
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .pa10{
+        column-count: 2;
+    }
+
+    .button{
+        height: 40px;
+        font-size: 20px;
+        background-color: rgb(228,153,191);
+        
+    }
+
+    .rec5{
+        height: 600px;
+        background-color: rgb(228,153,191);
+    }
+
+    .fa2{
+        color: black;
+        text-decoration: none;
+       
+    }
+
+    .sMedia2{
+        display: flex;
+       justify-content: left;
+        gap: 25px;
+        margin-top: 20px;
+        font-size: 30px;
+      
+    }
+
+    .rec6{
+        height: 20px;
+        background-color: rgb(228,153,191);
+    }
+
+    .recM{
+        height: 650px;
+        background-color: white;
+       
+    }
+
+    .pic8{
+        object-fit: cover;
+        height: 200px;
+    }
+
+    .pa11{
+        font-size: 30px;
+    }
+
+    .linkPa11{
+        color: black;
+    }
+
+    .pic9{
+        height: 500px;
+        object-fit: cover;
+    }
+
+    .pic10{
+        height: 500px;
+        object-fit: cover;
+    }
+
+    .pic11{
+        height: 500px;
+        object-fit: cover;
+    }
+
+  
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    .squareB{
+        
+        height: 620px;
+        width: 100%;
+        background-color: rgb(94,81,169);
+        display: flex;
+      justify-content: center;
+     align-items: center;
+        margin-top: 180px;
+          
+    }
+    
+    .pic1{
+        
+        width: auto; 
+        width: 455px;
+        height: 440px;
+        margin-top: -450px;
+        
+    }
+    
+    .squareF {
+        
+        width: auto;
+        width: 355px;
+        height: 330px;
+        margin-top: 200px;
+        background-color: white;
+        position: absolute;
+    
+    }
+
+    .squareF h6{
+        text-align: center;
+        margin-top: 45px;
+        margin-left: 35px;
+        color: rgb(94,81,169);
+        font-size: 20px;
+        
+    }
+
+    .pa1{
+        text-align: center;
+    margin-top: 10px;
+    margin-left: 35px;
+    color: rgb(94,81,169);
+    font-size: 55px;
+    line-height: 55px;
+    
+    }
+    
+    .pa2{
+        font-style: italic;
+        text-align: center;
+        margin-left: 20px;
+        font-size: 25px;
+        
+        
+    }
+    .linkPa2{
+        color: rgb(94,81,169);
+    }
+
+    .pa3{
+        margin-top: 40px;
+        font-size: 36px;
+        margin-left: 55px;
+        color: rgb(80, 64, 172);
+        line-height: 30px;
+        display: flex;
+        justify-content: left;
+    }
+
+    .pa4{
+        margin-top: 40px;
+        font-size: 23px;
+        margin-left: 100px;
+        width: 80%;
+         
+    }
+
+    .squareB2{
+        width: 100%;
+        height: auto;
+        background-color: rgb(94,81,169);;
+    }
+
+    .squareB2 h2{
+        font-size: 35px;
+        margin-left: 50px;
+        color: white;
+        margin-top: 50px;
+    }
+    
+    .pa5{
+        font-size: 20px;
+        margin-left: 50px;
+        color: white;
+        margin-top: 30px;
+    }
+    
+    .line{
+      width: auto;
+    height: 12px;
+    width: 115px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 35px;
+    } 
+    
+    .pic2{
+            
+        height: 675px;
+        object-fit: cover;
+        
+    }
+    
+    
+    .title1{
+        font-size: 30px;
+        color: rgb(94,81,169);
+       font-weight: bold;
+       
+    }
+
+
+/*   .pic4{
+      
+        border-radius: 50%;
+           
+    }
+
+    .rec{
+        
+        height: 600px;
+        background-color: rgb(228,153,191);    
+    } */
+
+    
+    .rec2{
+        height: 280px;
+        background-color: rgb(228,153,191);
+    }
+
+    .pa7{
+        font-size: 22px;
+    }
+
+    .pa8{
+        font-size: 26px;
+    }
+
+    .fa{
+        color: white;
+        text-decoration: none;
+       
+    }
+
+    .sMedia{
+        display: flex;
+       justify-content: left;
+        gap: 25px;
+        margin-left: 75px;
+        margin-top: 20px;
+        font-size: 30px;
+    }
+
+    .pic6{
+        height: 650px;
+        object-fit: cover;
+    }
+
+    .rec3{
+        height: 520px;
+        background-color: black;
+    }
+
+    .pic7{
+        height: 600px;
+        object-fit: cover;
+    }
+
+    .candy{
+        font-size: 40px;
+        color: rgb(94, 81, 169);
+    }
+
+    .button{
+        height: 40px;
+        font-size: 20px;
+        background-color: rgb(228,153,191);
+        
+    }
+
+    .rec5{
+        height: 600px;
+        background-color: rgb(228,153,191);
+    }
+
+    .fa2{
+        color: black;
+        text-decoration: none;
+       
+    }
+
+    .sMedia2{
+        display: flex;
+       justify-content: left;
+        gap: 25px;
+        margin-top: 20px;
+        font-size: 30px;
+      
+    }
+
+    .rec6{
+        height: 20px;
+        background-color: rgb(228,153,191);
+    }
+
+    .recM{
+        height: 570px;
+        background-color: white;
+       
+    }
+
+    .pic8{
+        object-fit: cover;
+        height: 300px;
+    }
+
+    .pa11{
+        font-size: 25px;
+    }
+
+    .linkPa11{
+        color: black;
+    }
+
+    .pic9{
+        height: 700px;
+        object-fit: cover;
+    }
+
+    .pic10{
+        height: 700px;
+        object-fit: cover;
+    }
+
+    .pic11{
+        height: 700px;
+        object-fit: cover;
+    }
+
+
+
+}
+
+@media (min-width: 320px) and (max-width: 575px) {
+ 
+    .squareB{
+        
+        height: 380px;
+        width: 100%;
+        background-color: rgb(94,81,169);
+        display: flex;
+      justify-content: center;
+     align-items: center;
+        margin-top: 250px;
+          
+    }
+    
+    .pic1{
+        
+        width: auto; 
+        height: 275px;
+        margin-top: -450px;
+        
+    }
+    
+    .squareF {
+        
+        width: auto;
+        height: 290px;
+        margin-top: 40px;
+        background-color: white;
+        position: absolute;
+    
+    }
+
+    .squareF h6{
+        text-align: center;
+        margin-top: 45px;
+        margin-left: 35px;
+        color: rgb(94,81,169);
+        font-size: 20px;
+        
+    } 
+        
+        .pa1{
+            text-align: center;
+        margin-top: 10px;
+        margin-left: 35px;
+        color: rgb(94,81,169);
+        font-size: 45px;
+        line-height: 35px;
+        
+        }
+        
+        .pa2{
+            font-style: italic;
+            text-align: center;
+            margin-left: 20px;
+            font-size: 15px;
+            
+            
+        }
+        .linkPa2{
+            color: rgb(94,81,169);
+        }
+
+      .pa3{
+            margin-top: 40px;
+            font-size: 36px;
+            margin-left: 55px;
+            color: rgb(80, 64, 172);
+            line-height: 30px;
+        }
+        
+        .pa4{
+            margin-top: 40px;
+            font-size: 23px;
+            margin-left: 50px;
+            width: 100%;
+             
+        }
+
+        .squareB2{
+            width: 100%;
+            height: auto;
+            background-color: rgb(94, 81, 169);
+        }
+    
+        .squareB2 h2{
+            font-size: 35px;
+            margin-left: 50px;
+            color: white;
+            margin-top: 50px;
+        }
+        
+        .pa5{
+            font-size: 20px;
+            margin-left: 50px;
+            color: white;
+            margin-top: 30px;
+        }
+        
+        .line{
+          width: auto;
+        height: 12px;
+        width: 115px;
+        background-color: white;
+        margin-left: 50px;
+        margin-top: 35px;
+        }
+
+        .pic2{
+            
+            height: 525px;
+            object-fit: cover;
+            
+        } 
+
+        .title1{
+            font-size: 30px;
+            color: rgb(94,81,169);
+           font-weight: bold;
+           
+        }
+
+        .pic3{
+            height: 550px;
+            object-fit: cover;
+        }
+
+       /*  .pic4{
+           
+            border-radius: 50%;
+        }
+
+ */
+
+      .pic5{
+          object-fit: cover;
+        height: 350px;
+
+    }
+
+    .rec2{
+        height: 320px;
+        background-color: rgb(228,153,191);
+    }
+
+    .pa7{
+        font-size: 22px;
+    }
+
+    .pa8{
+        font-size: 26px;
+    }
+
+    .fa{
+        color: white;
+        text-decoration: none;
+       
+    }
+
+    .sMedia{
+        display: flex;
+       justify-content: left;
+        gap: 25px;
+        margin-left: 75px;
+        margin-top: 20px;
+        font-size: 30px;
+    }
+
+    .pic6{
+        height: 400px;
+        object-fit: cover;
+    }
+
+    .rec3{
+        height: 520px;
+        background-color: black;
+    }
+
+    .pic7{
+        height: 350px;
+        object-fit: cover;
+    }
+
+    .pa9{
+        margin-left: 60px;
+        font-size: 30px;
+        
+    }
+
+    .aboutU{
+        margin-left:auto;
+        margin-right:auto;
+        
+    }
+
+    .candy{
+        font-size: 40px;
+        color: rgb(94, 81, 169);
+    }
+
+
+    .button{
+        height: 40px;
+        font-size: 20px;
+        background-color: rgb(228,153,191);
+        
+    }
+
+    .rec5{
+        height: 600px;
+        background-color: rgb(228,153,191);
+    }
+
+    .fa2{
+        color: black;
+        text-decoration: none;
+       
+    }
+
+    .sMedia2{
+        display: flex;
+       justify-content: left;
+        gap: 25px;
+        margin-top: 20px;
+        font-size: 30px;
+      
+    }
+
+    .rec6{
+        height: 20px;
+        background-color: rgb(228,153,191);
+    }
+
+    .recM{
+        height: 570px;
+        background-color: white;
+       
+    }
+
+    .pic8{
+        object-fit: cover;
+        height: 350px;
+    }
+
+    .pa11{
+        font-size: 20px;
+    }
+
+    .linkPa11{
+        color: black;
+    }
+
+    .pic9{
+        height: 500px;
+        object-fit: cover;
+    }
+
+    .pic10{
+        height: 500px;
+        object-fit: cover;
+    }
+
+    .pic11{
+        height: 500px;
+        object-fit: cover;
+    }
+
+  
+
+ 
+
+
+   
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
